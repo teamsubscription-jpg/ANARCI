@@ -1,0 +1,9 @@
+.git
+**/__pycache__
+**/*.pyc
+build
+build_pipeline/IMGT_sequence_files
+build_pipeline/muscle_alignments
+build_pipeline/curated_alignments
+build_pipeline/HMMs
+Example_scripts_and_sequences/pdb_sequences.fa.txt.gz
